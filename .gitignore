@@ -1,0 +1,5 @@
+.acpi*
+.tmp_versions
+acpi*
+Module.symvers
+modules.order
